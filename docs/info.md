@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a simple Johnson counter, which need only clock to count. A Johnson counter is defined as a digital sequential logic circuit where the complement output of the last flip-flop is fed back to the input of the first flip-flop. (https://www.electrical4u.com/johnson-counter/)
 
 ## How to test
 
-Explain how to use your project
+Just Turn the circuit on
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Nothing
